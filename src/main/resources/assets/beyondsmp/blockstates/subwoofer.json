@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "supermax:block/subwoofer" },
+    "facing=south": { "model": "supermax:block/subwoofer", "y": 180 },
+    "facing=west": { "model": "supermax:block/subwoofer", "y": 270 },
+    "facing=east": { "model": "supermax:block/subwoofer", "y": 90 },
+    "facing=up": { "model": "supermax:block/subwoofer", "x": 270 },
+    "facing=down": { "model": "supermax:block/subwoofer", "x": 90 }
+  }
+}
